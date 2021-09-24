@@ -10,11 +10,15 @@ My Support Discord Server [Otter Hangout](https://discord.gg/8mUEK38NMJ) 🤖♨
 
 Buy me a little and lovely coffee ☕ [Buy me a Coffee](https://www.buymeacoffee.com/CorgiOtterBot)
 
+My YouTube Channel! [Corgi](https://www.youtube.com/channel/UCnkviocxvPGS_80aNjJrCkQ)
+
 * I'm a developer with 19 years old, who wants to be a certified developer!
 
 * I'm taken by someone 👀♥
 
 * Always free to make colaborations in github and coding!
+
+* Somewhat sensitive with my emotions! 😿
 
 
 
