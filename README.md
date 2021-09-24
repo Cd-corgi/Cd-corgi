@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello Guys, Corgi(Coiny is here!) 🟡🐭!!
 
-<!--
-**Cd-corgi/Cd-corgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I'm a Discord Bot Developer and App Developer and Artist as well!* 🎨🤖
 
-Here are some ideas to get you started:
+## Featured Repositories 🌠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My own verified Bot  [OtterBot](https://github.com/Cd-corgi/OtterBot-OP-project)🦦
+
+My Support Discord Server [Otter Hangout](https://discord.gg/8mUEK38NMJ) 🤖♨
+
+Buy me a little and lovely coffee ☕ [Buy me a Coffee](https://www.buymeacoffee.com/CorgiOtterBot)
+
+* I'm a developer with 19 years old, who wants to be a certified developer!
+
+* I'm taken by someone 👀♥
+
+* Always free to make colaborations in github and coding!
+
+
+
