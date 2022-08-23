@@ -1,4 +1,4 @@
-### Hello Guys, Corgi(Coiny is here!) 🟡🐭!!
+### Hello Guys, Corgi 🟡🐭!!
 
 *I'm a Discord Bot Developer and App Developer and Artist as well!* 🎨🤖
 
@@ -12,7 +12,7 @@ Buy me a little and lovely coffee ☕ [Buy me a Coffee](https://www.buymeacoffee
 
 My YouTube Channel! [Corgi](https://www.youtube.com/channel/UCnkviocxvPGS_80aNjJrCkQ)
 
-* I'm a developer with 19 years old, who wants to be a certified developer!
+* I'm a developer with 20 years old, who wants to be a certified developer!
 
 * I'm taken by someone 👀♥
 
