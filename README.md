@@ -18,5 +18,8 @@ a 20 Y/O Boy almost graduated of "Software Development and Mobile Application"
 
 If you are here to see my bot's repository click the button with the social media buttons!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cd-corgi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cd-corgi&show_icons=true&theme=tokyonight" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cd-corgi&layout=compact&theme=blue-green"/>
+</p>
