@@ -20,6 +20,8 @@ If you are here to see my bot's repository click the button with the social medi
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cd-corgi&show_icons=true&theme=tokyonight" />
+  
+<img align="center" src="https://youtube-stats-card.vercel.app/api?channelid=UCnkviocxvPGS_80aNjJrCkQ&theme=tokyonight&hide_icons=true" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cd-corgi&layout=compact&theme=blue-green"/>
 </p>
