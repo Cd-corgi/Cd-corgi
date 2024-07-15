@@ -13,7 +13,7 @@ I'm a Software Developer and Discord Bot Developer [Cørg1](https://www.youtube.
 
 An Indie Artist & Developer with great Hopes and Dreams!
 
-a 20 Y/O Boy almost graduated of "Software Development and Mobile Application"
+a 22 Y/O Boy almost graduated of "Software Development and Mobile Application"
 
 If you are here to see my bot's repository click the button with the social media buttons!
 
