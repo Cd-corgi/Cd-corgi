@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating Discord Bots since 2018<br>📚 A Backend and DB lover<br>🐭 Rodent lover (mice/rats)<br>🎲 Colombian<br>💓 Single (Straight)</p>
+<p align="left">✨ Creating Discord Bots since 2018<br>📚 A Backend and DB lover<br>🐭 Rodent lover (mice/rats)<br>🎲 Colombian<br>💓 Taken (Straight)</p>
 
 ###
 
