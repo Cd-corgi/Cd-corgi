@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <strong>Corgi</strong>, better called <strong>Juan Pablo Cortina</strong>. A 23 years old man graduated from Software Developer and Mobile Appliations. Youtuber, Artist and Content creator.<br><br>Graduated from Oracle Next Education (ONE) as a Backend student.</p>
+<p align="left">My name is <strong>Corgi</strong>, better called <strong>Juan Pablo Cortina</strong>. A 22 years old man graduated from Software Developer and Mobile Appliations. Youtuber, Artist and Content creator.<br><br>Graduated from Oracle Next Education (ONE) as a Backend student.</p>
 
 ###
 
