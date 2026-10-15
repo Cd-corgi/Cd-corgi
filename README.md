@@ -5,9 +5,12 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · cd-corgi</sub></p>
 <h1>CorgiTheMouse</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Backend Developer</h2>
 <p>24 y/o Software (Backend) Dev, Discord Bot Developer, Artist and Content Creator.</p>
 <p><strong>● Building and sharing work in public</strong></p>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/wordmark?username=cd-corgi&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F70237066%3Fu%3Df35392780f88688de5ef97a508fcbe975e30fa05%26v%3D4&v=showcase-wordmark-2" alt="CorgiTheMouse wordmark visual" />
+</p>
 <p><sub>Based in colombia</sub></p>
 <p><a href="https://github.com/cd-corgi">GitHub</a></p>
 </td>
